@@ -95,7 +95,7 @@ export default function ContactCode() {
                 <span className="text-vscode-tag">&lt;strong&gt;</span>
                 <span className="text-white">Location:</span>
                 <span className="text-vscode-tag">&lt;/strong&gt;</span>{" "}
-                <span className="text-white">Kolkata, West Bengal</span>
+                <span className="text-white">Kolkata, West Bengal, India</span>
                 <span className="text-vscode-tag">&lt;/li&gt;</span>
               </div>
               <span className="text-vscode-tag">&lt;/ul&gt;</span>
