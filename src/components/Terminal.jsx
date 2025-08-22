@@ -95,7 +95,7 @@ const Terminal = () => {
         if (result.action === 'clear') {
           // Reset the terminal to initial state via the context
           const initialMessages = [
-            { message: 'portfolio@1.0.0', isError: false }
+            { message: 'portfolio@1.1.0', isError: false }
           ];
           
           // Replace the terminal history with initial messages

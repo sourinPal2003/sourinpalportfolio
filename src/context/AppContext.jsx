@@ -23,7 +23,7 @@ export const AppProvider = ({ children }) => {
     { message: '$ npm run dev', isError: false },
     { message: '[INFO] Portfolio launched successfully at localhost:3000', isError: false },
     { message: 'Ready for connections...', isError: false },
-    { message: 'portfolio@1.0.0', isError: false }
+    { message: 'portfolio@1.1.0', isError: false }
   ]);
 
   // Load file data
