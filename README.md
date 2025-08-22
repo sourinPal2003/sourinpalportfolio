@@ -7,7 +7,7 @@ This is my personal portfolio website, designed to showcase my skills, experienc
 
 ## 🚀 About the Project
 
-- **Built with:** React, Vite, Tailwind CSS, shadcn/ui
+- **Built with:** React, Vite, Tailwind CSS
 - **Design:** Responsive, accessible, and fast
 - **UI:** Custom components, code-inspired layout, and smooth navigation
 - **Purpose:** Demonstrate my technical abilities, project experience, and design sense to potential employers and collaborators
